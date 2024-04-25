@@ -10,7 +10,7 @@ setuptools.setup(
     description="discordltc is a very useful library made to be used with discord.py",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://www.github.com",
+    url="https://github.com/RaoDev12/discordltc",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
