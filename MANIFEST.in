@@ -1,0 +1,2 @@
+include discordltc/litecoin.py
+include discordltc/__init__.py
